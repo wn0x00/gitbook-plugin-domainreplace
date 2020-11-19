@@ -1,0 +1,23 @@
+{
+  "name": "gitbook-plugin-domainreplace",
+  "version": "0.0.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wo-ni/gitbook-plugin-domainreplace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "gitbook": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/wo-ni/gitbook-plugin-domainreplace/issues"
+  },
+  "homepage": "https://github.com/wo-ni/gitbook-plugin-domainreplace#readme"
+}
