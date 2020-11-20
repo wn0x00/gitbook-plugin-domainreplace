@@ -1,5 +1,3 @@
-"use strict";
-
 module.exports = {
   hooks: {
     "page:before": function (page) {
